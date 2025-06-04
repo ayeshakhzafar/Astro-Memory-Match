@@ -37,3 +37,6 @@ npm start
 6. **Open http://localhost:3000 in your browser to play the game!**
 
 
+Made with 💫 by Ayesha Khalid
+
+
